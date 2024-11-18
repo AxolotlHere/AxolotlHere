@@ -1,5 +1,5 @@
 # 💫 About Me:
-$whoami -> Void;<br>Native and cross platform app developer; <br>Certified SOC analyst and novice bug bounty hunter; <br>Currently learning web vulnerabilities and webdev;<br>Plans to work on web3 in the future;<br>
+$whoami -> Axolotl;<br>Native and cross platform app developer; <br>Certified SOC analyst and novice bug bounty hunter; <br>Currently learning web vulnerabilities and webdev;<br>Plans to work on web3 in the future;<br>
 
 
 ## 🌐 Socials:
