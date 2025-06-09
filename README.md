@@ -1,9 +1,4 @@
-Howdy, I'm Naveen Bharath (alias online - Axolotl).<br>
-I'm a computer science undergrad at VITC working on cool projects, I mostly work on,<br>
-Systems and low-level programming<br>
-Blockchain and AIML<br>
-You'll find me playing CTFs or tinkering my rice when I'm bored<br>
-I love watching anime and playing games.
+Howdy, I'm Naveen Bharath (alias online - Axolotl).<br>I'm a computer science undergrad at VITC working on cool projects, I mostly work on,<br><br>Systems and low-level programming <br>Blockchain and AIML<br>You'll find me playing CTFs or tinkering my rice when I'm bored<br>I love watching anime and playing games.
 
 ###
 
@@ -18,7 +13,7 @@ I love watching anime and playing games.
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -53,8 +48,6 @@ I love watching anime and playing games.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
@@ -68,15 +61,15 @@ I love watching anime and playing games.
 
 <div align="center">
   <a href="https://www.instagram.com/axolotl.was.here/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="16" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="16" alt="instagram logo"  />
   </a>
   <a href="https://www.twitch.tv/axolotlwho" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="70" height="16" alt="twitch logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="16" alt="twitch logo"  />
   </a>
   <a href="mailto:snaveenbharath2005@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="16" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="16" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/naveen-bharath-27569b2a9" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="16" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="16" alt="linkedin logo"  />
   </a>
 </div>
