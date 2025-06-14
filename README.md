@@ -1,4 +1,4 @@
-Howdy, I'm Naveen Bharath (alias online - Axolotl).<br>I'm a computer science undergrad at VITC working on cool projects, I mostly work on,<br><br>Systems and low-level programming <br>Blockchain and AIML<br>You'll find me playing CTFs or tinkering my rice when I'm bored<br>I love watching anime and playing games.
+Howdy, I'm Naveen Bharath (alias online - Axolotl).<br>I'm a computer science undergrad at VITC working on cool projects, I mostly work on,<br><br>Systems and low-level programming <br>Blockchain and AIML<br>You'll find me playing CTFs or tinkering my rice when I'm bored<br>I love watching anime and playing games. Huge star wars fan
 
 ###
 
