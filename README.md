@@ -1,4 +1,4 @@
-Hello there, I'm Naveen Bharath (alias online - Axolotl).<br>I'm a Computer Science Undergrad at VITC working on cool projects, I mostly work on,<br><br> Systems and low-level programming <br> Distributed Systems and Backend <br> Cybersec and Pentesting <br>You'll find me playing CTFs or tinkering my rice when I'm bored<br>I love watching anime and playing games.A Huge star wars fan
+Hello there, I'm Naveen Bharath (alias online - Axolotl).<br>I'm a Computer Science Undergrad at VITC working on cool projects, I mostly work on,<br><br> Systems and low-level programming <br> Distributed Systems and Backend <br> Cybersec and Pentesting <br><br>You'll find me playing CTFs or tinkering my rice when I'm bored<br>I love watching anime and playing games.A Huge star wars fan
 
 ###
 
